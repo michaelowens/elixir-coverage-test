@@ -1,4 +1,6 @@
 defmodule Portal.Door do
+  alias Portal.Door
+
   @doc """
   Starts a door with a given `color`.
 
